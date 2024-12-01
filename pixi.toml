@@ -1,0 +1,12 @@
+[project]
+authors = ["Brian Grenier <grenierb96@gmail.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "advent-of-code-2024"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+max = "*"
